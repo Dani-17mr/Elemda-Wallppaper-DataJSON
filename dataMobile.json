@@ -1,18 +1,76 @@
-[{
-  "id": 21,
-  "es": {
-    "title": "Viaje hacia lo desconocido",
-    "history": "Un tren solitario serpentea a través de un bosque brumoso, su tono carmesí un faro de esperanza en medio de las hojas otoñales que se desvanecen. A medida que desaparece en la distancia, lleva consigo los sueños y aspiraciones de innumerables viajeros. ¿A dónde conduce este viaje? ¿Qué secretos se esconden más allá del horizonte? Las posibilidades son infinitas.",
-    "genre": ["Aventura", "Misterio", "Esperanza", "Nostalgia", "Asia"]
+[
+  {
+    "id": 24,
+    "es": {
+      "title": "Demonios Internos",
+      "history": "Los ojos de Rengoku arden con una furia carmesí mientras el demonio que lleva dentro lucha por liberarse. Desgarrado entre su humanidad y la oscuridad que lo consume, libra una constante batalla por el control. Las llamas que envuelven su forma representan el poder del demonio, mientras que los restos de su yo humano se aferran a los bordes de su ser.",
+      "genre": [
+        "Lucha interna",
+        "Dualidad",
+        "Transformación",
+        "Oscuridad",
+        "Anime"
+      ]
+    },
+    "en": {
+      "title": "Inner Demons",
+      "history": "Rengoku's eyes burn with a crimson fury as the demon within him struggles to break free. Torn between his humanity and the darkness that consumes him, he fights a constant battle for control. The flames that engulf his form represent the power of the demon, while the remnants of his human self cling to the edges of his being.",
+      "genre": [
+        "Internal Struggle",
+        "Duality",
+        "Transformation",
+        "Darkness",
+        "Anime"
+      ]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxjXFyx3hB1KYJeKQ?embed=1&width=717&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxiuPI4ojzjuuLYBg?embed=1&width=1632&height=2912"
   },
-  "en": {
-    "title": "Journey into the Unknown",
-    "history": "A lone train winds its way through a misty forest, its crimson hue a beacon of hope amidst the fading autumn leaves. As it disappears into the distance, it carries with it the dreams and aspirations of countless travelers. Where does this journey lead? What secrets lie beyond the horizon? The possibilities are endless.",
-    "genre": ["Adventure", "Mystery", "Hope", "Nostalgia", "Asia"]
+  {
+    "id": 23,
+    "es": {
+      "title": "Venganza llameante",
+      "history": "Tanjiro Kamado, con los ojos ardiendo de una determinación feroz, se prepara para enfrentar a sus demonios. Las llamas que lo envuelven simbolizan la ira que siente por aquellos que le han hecho daño a él y a su familia. Con su espada desenvainada, jura vengar a sus seres queridos y poner fin a la oscuridad que plaga el mundo.",
+      "genre": ["Acción", "Venganza", "Oscuridad", "Anime"]
+    },
+    "en": {
+      "title": " Blazing Vengeance",
+      "history": "Tanjiro Kamado, his eyes burning with a fiery determination, stands ready to face his demons. The flames that engulf him symbolize the rage he feels for those who have wronged him and his family. With his sword drawn, he vows to avenge his loved ones and put an end to the darkness that plagues the world.",
+      "genre": ["Action", "Revenge", "Darkness", "Anime"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxhcV6vkRrg8X69ew?embed=1&width=717&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxgXkmoPrK32zPZgA?embed=1&width=1632&height=2912"
   },
-  "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxdGcbKpaBTZXpxrw?embed=1&width=640&height=1280",
-  "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxcIztoonRoige9WA?embed=1&width=768&height=1536"
-},
+  {
+    "id": 22,
+    "es": {
+      "title": "El Guerrero Solitario",
+      "history": "Bajo una máscara de indiferencia se esconde un corazón que arde con una feroz pasión. Este guerrero solitario ha visto demasiada oscuridad como para confiar fácilmente, pero su inquebrantable determinación por proteger a aquellos a quienes quiere impulsa cada una de sus acciones. Su mirada penetrante parece cargar con el peso de mil batallas, y su exterior helado oculta una vulnerabilidad que pocos se atreven a descubrir.",
+      "genre": ["Acción", "Misterio", "Soledad", "Anime"]
+    },
+    "en": {
+      "title": "The Lone Warrior",
+      "history": "Beneath a mask of indifference lies a heart that burns with a fierce passion. This lone warrior has seen too much darkness to trust easily, but his unwavering determination to protect those he cares about fuels his every action. His piercing gaze seems to hold the weight of a thousand battles, and his icy exterior hides a vulnerability that few dare to uncover.",
+      "genre": ["Action", "Mystery", "Loneliness", "Anime"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxfeCAYjwh20HIKQg?embed=1&width=577&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxepS7wQ9BH9phVQQ?embed=1&width=1104&height=2448"
+  },
+  {
+    "id": 21,
+    "es": {
+      "title": "Viaje hacia lo desconocido",
+      "history": "Un tren solitario serpentea a través de un bosque brumoso, su tono carmesí un faro de esperanza en medio de las hojas otoñales que se desvanecen. A medida que desaparece en la distancia, lleva consigo los sueños y aspiraciones de innumerables viajeros. ¿A dónde conduce este viaje? ¿Qué secretos se esconden más allá del horizonte? Las posibilidades son infinitas.",
+      "genre": ["Aventura", "Misterio", "Esperanza", "Nostalgia", "Asia"]
+    },
+    "en": {
+      "title": "Journey into the Unknown",
+      "history": "A lone train winds its way through a misty forest, its crimson hue a beacon of hope amidst the fading autumn leaves. As it disappears into the distance, it carries with it the dreams and aspirations of countless travelers. Where does this journey lead? What secrets lie beyond the horizon? The possibilities are endless.",
+      "genre": ["Adventure", "Mystery", "Hope", "Nostalgia", "Asia"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxdGcbKpaBTZXpxrw?embed=1&width=640&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxcIztoonRoige9WA?embed=1&width=768&height=1536"
+  },
   {
     "id": 20,
     "es": {
