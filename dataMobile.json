@@ -1,4 +1,48 @@
-[
+[{
+  "id": 21,
+  "es": {
+    "title": "Viaje hacia lo desconocido",
+    "history": "Un tren solitario serpentea a través de un bosque brumoso, su tono carmesí un faro de esperanza en medio de las hojas otoñales que se desvanecen. A medida que desaparece en la distancia, lleva consigo los sueños y aspiraciones de innumerables viajeros. ¿A dónde conduce este viaje? ¿Qué secretos se esconden más allá del horizonte? Las posibilidades son infinitas.",
+    "genre": ["Aventura", "Misterio", "Esperanza", "Nostalgia", "Asia"]
+  },
+  "en": {
+    "title": "Journey into the Unknown",
+    "history": "A lone train winds its way through a misty forest, its crimson hue a beacon of hope amidst the fading autumn leaves. As it disappears into the distance, it carries with it the dreams and aspirations of countless travelers. Where does this journey lead? What secrets lie beyond the horizon? The possibilities are endless.",
+    "genre": ["Adventure", "Mystery", "Hope", "Nostalgia", "Asia"]
+  },
+  "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxdGcbKpaBTZXpxrw?embed=1&width=640&height=1280",
+  "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxcIztoonRoige9WA?embed=1&width=768&height=1536"
+},
+  {
+    "id": 20,
+    "es": {
+      "title": "Templo en la Montaña Neblinosa",
+      "history": "Escondido en las profundidades de las montañas nebulosas, un antiguo templo se erige como un silencioso centinela. Su pintura escarlata, vibrante contra el telón de fondo de pinos cubiertos de nieve, parece brillar con una luz de otro mundo. Durante siglos, este lugar sagrado ha estado envuelto en misterio, sus secretos guardados por los espíritus del bosque. Algunos dicen que es una puerta de entrada a otro reino, mientras que otros creen que tiene la llave para desbloquear la verdadera naturaleza de la realidad.",
+      "genre": ["Fantasía", "Misterio", "Espiritualidad", "Naturaleza", "Asia"]
+    },
+    "en": {
+      "title": "Misty Mountain Temple",
+      "history": " Hidden deep within the misty mountains, an ancient temple stands as a silent sentinel. Its scarlet paint, vibrant against the backdrop of snow-kissed pines, seems to glow with an otherworldly light. For centuries, this sacred place has been shrouded in mystery, its secrets guarded by the spirits of the forest. Some say it is a gateway to another realm, while others believe it holds the key to unlocking the true nature of reality.",
+      "genre": ["Fantasy", "Mystery", "Spirituality", "Nature", "Asia"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxbVKlY8eCNBq3nuQ?embed=1&width=640&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxaEikCySuu1JqsNw?embed=1&width=768&height=1536"
+  },
+  {
+    "id": 19,
+    "es": {
+      "title": "Secretos ancestrales",
+      "history": "Escondido entre las montañas, este antiguo pueblo guarda secretos susurrados a través de generaciones. Las hojas rojas, como páginas de un libro antiguo, revelan vislumbres de un pasado olvidado. Las calles tranquilas y las casas tradicionales invitan a la exploración, prometiendo desvelar historias de amor, pérdida y el espíritu perdurable de una comunidad.",
+      "genre": ["Misterio", "Historia", "Cultura", "Exploración", "Asia"]
+    },
+    "en": {
+      "title": "Ancient Secrets",
+      "history": "Hidden among the mountains, this ancient village holds secrets whispered through generations. The red leaves, like pages turned in an ancient book, reveal glimpses of a forgotten past. The quiet streets and traditional houses invite exploration, promising to unveil tales of love, loss, and the enduring spirit of a community.",
+      "genre": ["Mystery", "History", "Culture", "Exploration", "Asia"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxZipav6TnM8BJ7PQ?embed=1&width=640&height=1280",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxY8KaIkT5LwLnliA?embed=1&width=768&height=1536"
+  },
   {
     "id": 18,
     "es": {
