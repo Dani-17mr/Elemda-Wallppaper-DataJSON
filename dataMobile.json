@@ -1,5 +1,50 @@
 [
   {
+    "id": 27,
+    "es": {
+      "title": "Guardianes Ancestrales",
+      "history": "Un sereno templo japonés se alza en el borde de un bosque místico. Al caer la noche, una figura colosal y sombría emerge de la niebla, insinuando secretos ancestrales y guardianes olvidados.",
+      "genre": ["Fantasía oscura", "Misterio", "Anime"]
+    },
+    "en": {
+      "title": "Ancient Guardians",
+      "history": "A serene Japanese temple stands at the edge of a mystical forest. As the sun sets, a colossal, shadowy figure emerges from the mist, hinting at ancient secrets and forgotten guardians.",
+      "genre": ["Dark fantasy", "Mystery", "Anime"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxnXabtshvEZOKZSg?embed=1&width=1536&height=3072",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxm_eVgdj6lDn6rRQ?embed=1&width=1536&height=3072"
+  },
+  {
+    "id": 26,
+    "es": {
+      "title": "Sombra de la Luna",
+      "history": "Una figura solitaria se perfila contra un fondo de vidrio lunar destrozado. Los tonos púrpuras y los bordes dentados evocan una sensación de misterio y poder. Esta obra de arte digital es una representación visual de un individuo solitario que ha emergido de la oscuridad, listo para enfrentar cualquier desafío que pueda surgir.",
+      "genre": ["Fantasía oscura", "Ciberpunk", "Anime"]
+    },
+    "en": {
+      "title": "Shadow of the Moon",
+      "history": "A lone figure stands silhouetted against a backdrop of shattered moonlit glass. The purple hues and jagged edges evoke a sense of mystery and power. This digital art piece is a visual representation of a solitary individual who has emerged from the darkness, ready to face whatever challenges may come.",
+      "genre": ["Dark fantasy", "Cyberpunk", "Anime"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxnXabtshvEZOKZSg?embed=1&width=1536&height=3072",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxm_eVgdj6lDn6rRQ?embed=1&width=1536&height=3072"
+  },
+  {
+    "id": 25,
+    "es": {
+      "title": "Despertar Abisal",
+      "history": "Una joven, antes inocente y pura, ha sido consumida por la oscuridad. Ahora, se encuentra al borde de una nueva realidad, sus poderes crecen y sus ojos arden con una intensidad sobrenatural.",
+      "genre": ["Fantasía oscura", "Horror", "Anime"]
+    },
+    "en": {
+      "title": "Abyssal Awakening",
+      "history": "A young girl, once innocent and pure, has been consumed by darkness. Now, she stands at the precipice of a new reality, her powers surging and her eyes burning with an otherworldly intensity.",
+      "genre": ["Dark fantasy", "Horror", "Anime"]
+    },
+    "url": "https://1drv.ms/i/s!Agyo7HFTlCHThIxlzOwIc7csu5yyiA?embed=1&width=1632&height=2912",
+    "url4k": "https://1drv.ms/i/s!Agyo7HFTlCHThIxkGeRc0TFIZNdUGw?embed=1&width=1632&height=2912"
+  },
+  {
     "id": 24,
     "es": {
       "title": "Demonios Internos",
